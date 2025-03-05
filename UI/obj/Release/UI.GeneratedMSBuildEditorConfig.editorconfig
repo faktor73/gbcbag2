@@ -1,0 +1,488 @@
+is_global = true
+build_property.EnableAotAnalyzer = true
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.AvaloniaNameGeneratorIsEnabled = false
+build_property.AvaloniaNameGeneratorBehavior = InitializeComponent
+build_property.AvaloniaNameGeneratorDefaultFieldModifier = internal
+build_property.AvaloniaNameGeneratorFilterByPath = *
+build_property.AvaloniaNameGeneratorFilterByNamespace = *
+build_property.AvaloniaNameGeneratorViewFileNamingStrategy = NamespaceAndClassName
+build_property.AvaloniaNameGeneratorAttachDevTools = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Mesen
+build_property.ProjectDir = C:\Users\Christian\Git-Projekte\gbcbag2_2.2.1\UI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/App.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Controls/ButtonWithIcon.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Controls/CheckBoxWarning.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Controls/ControllerButton.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Controls/EnumComboBox.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Controls/FirmwareSelect.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Controls/GroupBox.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Controls/IconButton.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Controls/InputComboBox.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Controls/KeyBindingButton.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Controls/MesenSlider.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Controls/MultiKeyBindingButton.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Controls/OptionSection.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Controls/OverscanInput.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Controls/PaletteConfig.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Controls/PathSelector.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Controls/SoftwareRendererView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Controls/StateGrid.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Controls/StateGridEntry.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Controls/SystemSpecificSettings.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Controls/ActionToolbar.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Controls/CodeScrollBar.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Controls/ColorCheckbox.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Controls/ColorPickerField.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Controls/DebuggerShortcutKeyGrid.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Controls/DynamicTooltip.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Controls/EventViewerCategoryControl.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Controls/HexInput.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Controls/NavButton.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Controls/ScrollPictureViewer.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Controls/SpritePreviewPanel.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/StatusViews/Cx4StatusView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/StatusViews/GbaStatusView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/StatusViews/GbStatusView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/StatusViews/GsuStatusView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/StatusViews/NecDspStatusView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/StatusViews/NesStatusView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/StatusViews/PceStatusView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/StatusViews/SmsStatusView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/StatusViews/SnesStatusView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/StatusViews/SpcStatusView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/StatusViews/St018StatusView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/StatusViews/WsStatusView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Views/BreakpointListView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Views/CallStackView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Views/ControllerInputView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Views/ControllerListView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Views/DebuggerDock/ToolContainerView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Views/DebuggerOptionsView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Views/DisassemblyView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Views/FindResultListView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Views/FunctionListView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Views/GbaEventViewerConfigView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Views/GbEventViewerConfigView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Views/LabelListView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Views/MemoryToolsDisplayOptionsView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Views/NesEventViewerConfigView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Views/PceEventViewerConfigView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Views/QuickSearchView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Views/RefreshTimingView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Views/RegisterTabView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Views/ScriptCodeCompletionView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Views/SmsEventViewerConfigView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Views/SnesEventViewerConfigView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Views/SourceViewView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Views/WatchListView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Views/WsEventViewerConfigView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Windows/AssemblerWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Windows/BreakInWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Windows/BreakOnWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Windows/BreakpointEditWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Windows/ColorIndexPickerWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Windows/CommentEditWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Windows/DebuggerConfigWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Windows/DebuggerWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Windows/DebugLogWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Windows/EventViewerWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Windows/FindAllOccurrencesWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Windows/GoToAllWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Windows/GoToWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Windows/LabelEditWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Windows/MemorySearchWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Windows/MemoryToolsWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Windows/MemoryViewerFindWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Windows/NesHeaderEditWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Windows/PaletteViewerWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Windows/ProfilerWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Windows/RegisterViewerWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Windows/ScriptWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Windows/SpriteViewerWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Windows/TileEditorWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Windows/TilemapViewerWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Windows/TileViewerWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Windows/TraceLoggerWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Debugger/Windows/WatchWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/ThirdParty/DataBox/Themes/Fluent.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Views/AudioConfigView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Views/AudioPlayerView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Views/BandaiHypershotControllerView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Views/CvConfigView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Views/DefaultControllerView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Views/EmulationConfigView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Views/FontOptionsView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Views/GameboyConfigView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Views/GbaConfigView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Views/GbaControllerView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Views/InputConfigView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Views/MainMenuView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Views/NesConfigView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Views/NesControllerView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Views/NesInputConfigView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Views/OtherConsolesConfigView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Views/PceAvenuePad6View.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Views/PceConfigView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Views/PceControllerView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Views/PceInputConfigView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Views/PreferencesConfigView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Views/ShortcutKeysTabView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Views/SmsConfigView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Views/SmsControllerView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Views/SmsInputConfigView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Views/SnesConfigView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Views/SnesControllerView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Views/SnesInputConfigView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Views/VideoConfigOverrideView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Views/VideoConfigView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Views/WsConfigView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Views/WsControllerVerticalView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Views/WsControllerView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Windows/AboutWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Windows/CheatDatabaseWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Windows/CheatEditWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Windows/CheatListWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Windows/ColorPickerWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Windows/CommandLineHelpWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Windows/ConfigWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Windows/ControllerConfigWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Windows/GameConfigWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Windows/GetKeyWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Windows/HdPackBuilderWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Windows/HistoryViewerRangePickerWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Windows/HistoryViewerWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Windows/InputBarcodeWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Windows/LogWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Windows/MainWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Windows/MessageBox.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Windows/MovieRecordWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Windows/NetplayConnectWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Windows/NetplayStartServerWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Windows/SelectRomWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Windows/SelectStorageFolderWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Windows/SetupWizardWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Windows/UpdatePromptWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Christian/Git-Projekte/gbcbag2_2.2.1/UI/Windows/VideoRecordWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
